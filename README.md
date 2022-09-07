@@ -3,7 +3,7 @@
 ![BADGE](https://img.shields.io/badge/INEURON-FULL--STACK--JAVASCRIPT--WEBDEVELOPMENT-lightgrey)
 
 ># `Pensil Landing page`
->![BADGE](https://img.shields.io/badge/MADE%20WITH%20FUN%20BY-BRIJESH%20VADALIA-blue)
+
 ># `Hackathon Project Powered By ` : [Pensil](https://www.pensil.in/ "Pensil")
 
 ![Gif](https://c.tenor.com/THnFbCn70McAAAAC/microsoft-hackathon-hackathon.gif)
